@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.exe
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.genruntimeconfig.cache

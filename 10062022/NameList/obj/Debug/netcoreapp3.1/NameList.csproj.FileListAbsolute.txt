@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\bin\Debug\netcoreapp3.1\NameList.exe
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\bin\Debug\netcoreapp3.1\NameList.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\bin\Debug\netcoreapp3.1\NameList.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\bin\Debug\netcoreapp3.1\NameList.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\bin\Debug\netcoreapp3.1\NameList.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\bin\Debug\netcoreapp3.1\NameList.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\obj\Debug\netcoreapp3.1\NameList.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\obj\Debug\netcoreapp3.1\NameList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\obj\Debug\netcoreapp3.1\NameList.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\obj\Debug\netcoreapp3.1\NameList.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\obj\Debug\netcoreapp3.1\NameList.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\obj\Debug\netcoreapp3.1\NameList.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\obj\Debug\netcoreapp3.1\NameList.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\21. 10-06-2022\10062022\NameList\obj\Debug\netcoreapp3.1\NameList.genruntimeconfig.cache

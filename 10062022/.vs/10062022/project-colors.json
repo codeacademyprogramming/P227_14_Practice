@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff53bde5-4545-48d1-bd89-36af3e3dc450": {
+      "ProjectGuid": "ff53bde5-4545-48d1-bd89-36af3e3dc450",
+      "DisplayName": "Practice1",
+      "ColorIndex": 0
+    },
+    "2268d22a-4cb1-43ad-a728-84057a010d4e": {
+      "ProjectGuid": "2268d22a-4cb1-43ad-a728-84057a010d4e",
+      "DisplayName": "PracticeApp",
+      "ColorIndex": 1
+    },
+    "5b09067e-81f6-4951-9f9d-746d2b9bca9c": {
+      "ProjectGuid": "5b09067e-81f6-4951-9f9d-746d2b9bca9c",
+      "DisplayName": "NameList",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
